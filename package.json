@@ -1,0 +1,21 @@
+{
+  "name": "async-flow-control-in-node-js",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "slidev build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^51.6.0",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest",
+    "chart.js": "^4.4.9",
+    "lodash": "^4.17.21",
+    "p-retry": "^6.2.1",
+    "pg": "^8.6.0",
+    "vue": "^3.5.13",
+    "vue-chartjs": "^5.3.2"
+  }
+}
